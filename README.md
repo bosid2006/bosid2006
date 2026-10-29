@@ -14,10 +14,11 @@ Abdulbosid Munavvarov
 <br><br>
 </div>
 
-🧠 LeetCode & Problem Solving
+
 
 <div align="center">
-
+🧠 LeetCode & Problem Solving
+  
 I regularly practice algorithmic problems to strengthen:
 
 Data Structures • Algorithms • Time & Space Complexity • Problem Solving • C#
@@ -30,10 +31,11 @@ Data Structures • Algorithms • Time & Space Complexity • Problem Solving �
 
 </div>
 
-📫 Contact
+
 
 <div align="center">
-
+     📫 Contact
+  
 <a href="mailto:munavvarov2211@gmail.com">
   <img src="https://img.shields.io/badge/Email-munavvarov2211%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
@@ -48,10 +50,11 @@ Data Structures • Algorithms • Time & Space Complexity • Problem Solving �
 
 </div>
 
-🎯 Career Direction
+
 
 <div align="center">
-
+🎯 Career Direction
+  
 Middle .NET Developer → Senior .NET Engineer
 
 I am building my career around backend engineering, software architecture,

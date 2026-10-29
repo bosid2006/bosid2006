@@ -52,7 +52,7 @@ Data Structures • Algorithms • Time & Space Complexity • Problem Solving �
 
 <div align="center">
 
-Junior .NET Developer → Middle .NET Developer → Senior .NET Engineer
+Middle .NET Developer → Senior .NET Engineer
 
 I am building my career around backend engineering, software architecture,
 databases, problem solving, and production-ready .NET applications.
@@ -62,12 +62,6 @@ Learn → Build → Review → Improve → Repeat
 </div>
 
 <div align="center">
-
-👋 Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=bosid2006&style=for-the-badge&color=blueviolet" alt="Profile views">
-
-<br><br>
 
 Let's build something useful. 🚀
 

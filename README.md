@@ -13,8 +13,6 @@ Abdulbosid Munavvarov
 
 <img src="https://github-readme-stats.vercel.app/api?username=bosid2006&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosid2006&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="170" />
-
 <br><br>
 </div>
 

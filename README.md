@@ -16,9 +16,6 @@ Abdulbosid Munavvarov
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosid2006&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="170" />
 
 <br><br>
-
-<img src="https://streak-stats.demolab.com?user=bosid2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 </div>
 
 🧠 LeetCode & Problem Solving

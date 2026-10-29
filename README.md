@@ -7,8 +7,6 @@ Abdulbosid Munavvarov
 
 </div>
 
-📊 GitHub Statistics
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=bosid2006&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats" height="170" />
